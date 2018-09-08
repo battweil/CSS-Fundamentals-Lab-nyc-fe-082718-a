@@ -1,4 +1,16 @@
+header {
+  text-align:center;
+}
+
+nav a {
+  padding-right:10px;
+  padding-left:10px;
+  background:#CCCCFF;
+}
+
+
 body {
+  text-align:center;
   width: 100%;
   height: 100%;
   margin: 0;
