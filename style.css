@@ -20,6 +20,6 @@ body {
   display:block;
 }
 
-figcaption {
-  font: 100px;
+#featured-property {
+  width: 800px;
 }
