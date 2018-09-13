@@ -26,6 +26,11 @@ body {
   width:25%;
 }
 
+img figcaption {
+  text-align: center;
+  text-size: 20px
+}
+
 #featured-property p {
   width: 800px;
   text-align: center;
