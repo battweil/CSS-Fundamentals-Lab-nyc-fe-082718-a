@@ -22,6 +22,7 @@ body {
 
 #details div{
   float:left;
+  background:red;
 }
 
 #featured-property {
