@@ -20,6 +20,10 @@ body {
   display:block;
 }
 
+#details div{
+  float:left;
+}
+
 #featured-property {
   width: 800px;
 }
